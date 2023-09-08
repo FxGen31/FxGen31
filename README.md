@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @FxGen31
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">
+  <img src="./name.png" alt="FxGen31" />
+</h1>
 
-<!---
-FxGen31/FxGen31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ✨ About me
+I am **FxGen31**, a web developer with a strong passion for learning in public and strive to openly share my projects.
+
+## 🎈 Skills
+```typescript
+const skills = {
+  frontEnd: ["React", "Next.js", "HTML", "CSS", "JavaScript", "TypeScript"],
+  backEnd: ["Node.js", "Express.js", "NestJS", "FastAPI"],
+  database: ["PostgreSQL", "MongoDB"],
+  apiDevelopment: ["OpenAPI", "GraphQL"], 
+}
+```
